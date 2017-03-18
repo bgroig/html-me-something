@@ -1,0 +1,39 @@
+html{
+    background-color: mediumseagreen;
+}
+
+.title{
+        color: blue;
+    }
+#special{
+    color: red;
+}
+
+div{
+    font-family: fantasy;
+    text-align: center;
+}
+
+header{
+    font-family:cursive;
+    padding-left;
+}
+
+img{
+    -webkit-filter: grayscale(100%);
+    filter:grayscale(100%);
+    width: 680px;
+    height: 400px;
+
+}
+
+p {
+    margin:20px;
+    font-family: cursive;
+    text-align: justify
+}
+
+footer{
+    font-family: cursive;
+    padding-left;
+}
